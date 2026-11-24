@@ -39,7 +39,7 @@ Für geschäftliche Anfragen, Bestellungen oder technischen Support stehen wir I
   Deutschland  
 
 ---
-*Developed for RENASS Trockenbau Shop - All rights reserved 2026.*
+*Developed for RENASS Trockenbau Shop - All rights reserved ©2026.*
 
 
 
