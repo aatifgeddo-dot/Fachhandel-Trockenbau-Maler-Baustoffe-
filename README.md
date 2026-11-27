@@ -42,6 +42,7 @@ Für geschäftliche Anfragen, Bestellungen oder technischen Support stehen wir I
 ##Technische Hinweis (Entwicklung)
 * Hauotdate: index.html
 * </footer>
+<p>
  <p>© 2026 RENASS TROCKENBAU SHOP (Meisterbetrieb). Alle Rechte Vorbehalten 
  
  <a href="impressum.html">Impressum</a>
