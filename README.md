@@ -1,4 +1,5 @@
 <img width="1024" height="1024" alt="image_9fb0010b" src="https://github.com/user-attachments/assets/7c50445f-c0d4-40ac-8194-6f9fb05547f7" />
+
 # 🏗️ RENASS Trockenbau Baustoffe Shop
 
 Willkommen im offiziellen Repository für den **RENASS Trockenbau Online-Shop**. Wir bieten hochwertige Materialien für den modernen Innenausbau, Decken- und Wandsysteme sowie professionellen Malerbedarf.
