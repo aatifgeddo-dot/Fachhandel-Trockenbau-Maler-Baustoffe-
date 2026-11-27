@@ -39,7 +39,7 @@ Für geschäftliche Anfragen, Bestellungen oder technischen Support stehen wir I
   Deutschland  
 
 ---
-##Technische Hinweis (Entwicklung)
+## Technische Hinweis (Entwicklung)
 * Hauptdatei: index.html
 </footer>
 <p>
