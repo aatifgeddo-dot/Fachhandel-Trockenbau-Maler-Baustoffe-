@@ -40,18 +40,18 @@ Für geschäftliche Anfragen, Bestellungen oder technischen Support stehen wir I
 
 ---
 ##Technische Hinweis (Entwicklung)
-* Hauotdate: index.html
-* </footer>
+* Hauptdatei: index.html
+</footer>
 <p>
  <p>© 2026 RENASS TROCKENBAU SHOP (Meisterbetrieb). Alle Rechte Vorbehalten 
  
  <a href="impressum.html">Impressum</a>
  <a href="datenschutz.html">Datenschutzerklärung</a>
- <p>
- </p>footer>
+ </p>
+ </footer>
  
- * **Status & Technologien:** Aktull in Entwicklung (HTML5/CSS3) - Fokus Reponsives Webdesign für mobile Endgeräte.
- *  **Hinweis zur Nutzug:**Dieses Repository dient ausshlißlich als Lern- und Entwicklungsprojekt; alle Inhalte sind vorläufig
+ * **Status & Technologien:** Aktuell in Entwicklung (HTML5/CSS3) - Fokus Responsives Webdesign für mobile Endgeräte.
+ *  **Hinweis zur Nutzung:** Dieses Repository dient ausshlißlich als Lern- und Entwicklungsprojekt; alle Inhalte sind vorläufig
  
 
 
