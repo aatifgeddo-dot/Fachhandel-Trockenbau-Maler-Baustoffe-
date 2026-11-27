@@ -52,6 +52,7 @@ Für geschäftliche Anfragen, Bestellungen oder technischen Support stehen wir I
  
  * **Status & Technologien:** Aktuell in Entwicklung (HTML5/CSS3) - Fokus Responsives Webdesign für mobile Endgeräte.
  *  **Hinweis zur Nutzung:** Dieses Repository dient ausshlißlich als Lern- und Entwicklungsprojekt; alle Inhalte sind vorläufig
+ *  **Github | Impressum | Datenschutz
  
 
 
